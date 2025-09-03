@@ -1,0 +1,3 @@
+#!/bin/bash
+touch 102-john_doe
+chmod 007 102-john_doe

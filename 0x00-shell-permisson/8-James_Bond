@@ -1,0 +1,3 @@
+#!/bin/bash
+touch 101-james_bond
+chmod 007 101-james_bond
